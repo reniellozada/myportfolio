@@ -101,7 +101,9 @@ td, th{
 	padding: 0;
 }
 
-
+.table-responsive {
+	overflow-x:auto;
+}
 table#educational-background {
     border-collapse: collapse;
     width: 100%;
